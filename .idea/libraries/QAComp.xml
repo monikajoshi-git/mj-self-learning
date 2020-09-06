@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QAComp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/QAComp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

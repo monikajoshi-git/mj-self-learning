@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jar_files">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DivideLargeFileUtilityv02/lib/jar_files/btf-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DivideLargeFileUtilityv02/lib/jar_files/jackson-core-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DivideLargeFileUtilityv02/lib/jar_files/jsr305-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DivideLargeFileUtilityv02/lib/jar_files/jackson-annotations-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DivideLargeFileUtilityv02/lib/jar_files/jackson-databind-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DivideLargeFileUtilityv02/lib/jar_files/jackson-coreutils-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DivideLargeFileUtilityv02/lib/jar_files/json-patch-1.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DivideLargeFileUtilityv02/lib/jar_files/msg-simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DivideLargeFileUtilityv02/lib/jar_files/guava-16.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
